@@ -1,0 +1,44 @@
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\bin\Debug\Welch_Bank.exe.config
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\bin\Debug\Welch_Bank.exe
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\bin\Debug\Welch_Bank.pdb
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\obj\Debug\Welch_Bank.csproj.AssemblyReference.cache
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\obj\Debug\Welch_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\obj\Debug\Welch_Bank.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\obj\Debug\Welch_Bank.exe
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\obj\Debug\Welch_Bank.pdb
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\bin\Debug\ConsoleTables.dll
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\bin\Debug\ConsoleTables.pdb
+C:\Users\mirac\OneDrive\Desktop\My BankApp\Welch_Bank\obj\Debug\Welch_Bank.csproj.CopyComplete
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\bin\Debug\Welch_Bank.exe.config
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\bin\Debug\Welch_Bank.exe
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\bin\Debug\Welch_Bank.pdb
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\bin\Debug\ConsoleTables.dll
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\bin\Debug\ConsoleTables.pdb
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\obj\Debug\Welch_Bank.csproj.AssemblyReference.cache
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\obj\Debug\Welch_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\obj\Debug\Welch_Bank.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\obj\Debug\Welch_Bank.csproj.CopyComplete
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\obj\Debug\Welch_Bank.exe
+C:\Users\mirac\OneDrive\Documents\GitHub\week-3-Vic-tory96\obj\Debug\Welch_Bank.pdb
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\bin\Debug\Welch_Bank.exe.config
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\bin\Debug\Welch_Bank.exe
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\bin\Debug\Welch_Bank.pdb
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\bin\Debug\ConsoleTables.dll
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\bin\Debug\ConsoleTables.pdb
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\obj\Debug\Welch_Bank.csproj.AssemblyReference.cache
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\obj\Debug\Welch_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\obj\Debug\Welch_Bank.csproj.CoreCompileInputs.cache
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\obj\Debug\Welch_Bank.csproj.CopyComplete
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\obj\Debug\Welch_Bank.exe
+C:\Users\mirac\Source\Repos\week-3-Vic-tory96\obj\Debug\Welch_Bank.pdb
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\bin\Debug\Welch_Bank.exe.config
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\bin\Debug\Welch_Bank.exe
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\bin\Debug\Welch_Bank.pdb
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\bin\Debug\ConsoleTables.dll
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\bin\Debug\ConsoleTables.pdb
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\obj\Debug\Welch_Bank.csproj.AssemblyReference.cache
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\obj\Debug\Welch_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\obj\Debug\Welch_Bank.csproj.CoreCompileInputs.cache
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\obj\Debug\Welch_Bank.csproj.CopyComplete
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\obj\Debug\Welch_Bank.exe
+C:\Users\mirac\OneDrive\Documents\GitHub\week-4-Vic-tory96\Welch_Bank\obj\Debug\Welch_Bank.pdb
